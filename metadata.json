@@ -1,0 +1,6 @@
+{
+  "name": "Reserva de Turnos",
+  "description": "Una aplicación web móvil para la reserva y agendamiento de turnos médicos, diseñada con una paleta de colores limpia, bordes redondeados y un contenedor modular para insertar un calendario externo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
