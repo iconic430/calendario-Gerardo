@@ -5,4 +5,8 @@
   --font-serif: "Playfair Display", Georgia, serif;
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
   --font-mono: "JetBrains Mono", ui-monospace, monospace;
+  --color-principal: #A2C4D9;
+  --color-segundo: #F1E3D1;
+  --color-tercero: #C9D3DD;
+  --color-cuarto: #F3D8B8;
 }
